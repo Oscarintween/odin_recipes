@@ -1,0 +1,1 @@
+This is my first project in The Odin Project. I will demonstrate what I have learned in regards to HTML and CSS.
